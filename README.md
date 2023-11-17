@@ -1,5 +1,4 @@
-# AluraFlix 1.0 - ImersaoDev 7 - Alura
-This project was mede by ImersãoDev 7 on Alura Plataform
+# AluraFlix 1.0 - Imersão Dev 7 - Alura 2023
 
 This is the third project on ImersãoDev 7 on Alura plataform. I learned more things about programming logic works on JS.
 In this site we have a lot of good movies.
